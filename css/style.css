@@ -1,0 +1,43 @@
+/*!
+ * Mastertech - Business Frontpage
+ * Insira seu código entre os comentários localizados no fim desta pagina ou/e
+ * Edite o código do layout original
+ */
+
+
+/* Edite o código abaixo para mudar as opções do layout original */
+
+body {
+    padding-top: 54px;
+}
+
+@media (min-width: 992px) {
+    body {
+        padding-top: 56px;
+    }
+}
+
+.business-header {
+    height: 50vh;
+    min-height: 300px;
+    background: url('https://unbcaep.files.wordpress.com/2016/08/meeting.jpg?w=624') center center no-repeat scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.card {
+    height: 100%;
+}
+
+.display-3{
+    font-size: 34px;
+
+    text-shadow: black -2px 2px 5px;
+}
+
+/* Inicio do meu CSS */
+
+
+/* Fim do meu CSS */
